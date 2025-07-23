@@ -538,6 +538,57 @@ Learn more about [Latex](https://www.overleaf.com/learn/latex/Mathematical_expre
 
 1. Render the Document
 
+## 
+
+:::::: columns
+::: {.column .centering width="25%"}
+<br> <br>
+
+![Savitribai Ramabai (SARA) Institute of Data Science](images/logo-sara.png)
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column width="30%" .r-fit-text}
+<br> <br><br><br>
+
+### Follow SARA
+<br>[[{{< fa brands twitter >}}](https://twitter.com/sara_institute)]{.clr-black} [\@sara_institute](https://twitter.com/sara_institute)
+
+[[{{< fa brands linkedin >}}](https://www.linkedin.com/company/sara-institute/)]{.clr-black} [SARA LinkedIn Page](https://www.linkedin.com/company/sara-institute/)
+
+[[{{< fa brands youtube >}}](https://www.youtube.com/@SARADataScience)]{.clr-black} [\@SARADataScience](https://www.youtube.com/@SARADataScience)
+
+[[{{< fa brands facebook >}}](https://www.facebook.com/profile.php?id=61564043738390)]{.clr-black} [SARA Facebook
+Page](https://www.facebook.com/profile.php?id=61564043738390)
+
+[[{{< fa brands whatsapp >}}](https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J)]{.clr-black} [SARA Institute WhatsApp
+Channel](https://whatsapp.com/channel/0029Va4r7rGLCoWycMwThl2J)
+:::
+
+::: {.column width="5%"}
+
+:::
+
+::: {.column .r-fit-text width="35%"}
+<br> <br> <br><br>
+
+### Contact SARA
+
+<br>{{< fa mobile-screen >}} 925 315 2024
+
+{{< fa envelope >}} [sara.institute.info\@gmail.com](mailto:%20sara.institute.info@gmail.com)
+
+{{< fa globe >}} [www.sara-edu.netlify.app/](https://sara-edu.netlify.app/)
+
+{{< fa location-dot >}} SARA Institute of Data Science, <br>Dr. Ambedkar Bhawan, Kakroi Road, Near
+Dayanand Hospital, <br>Sonipat - 131001, Haryana, India.
+:::
+::::::
+
+
 ## {background-image=https://images.unsplash.com/photo-1445375011782-2384686778a0?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D background-size=cover background-color=black background-opacity=0.6}
 
 <br>
